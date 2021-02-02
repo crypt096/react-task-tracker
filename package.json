@@ -1,6 +1,5 @@
 {
   "name": "task-tracker",
-  "homepage": "http://crypt096.github.io/react-task-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
